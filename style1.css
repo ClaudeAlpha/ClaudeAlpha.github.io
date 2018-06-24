@@ -9,13 +9,14 @@ font-family: "Courier New", Courier, monospace;
 }
 .text2 {
 	color: #ffffff;
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-	font-size: 15px;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 17px;
+	font-weight: bold;
 }
 .text3 {
 	color: #525252;
 	font-family: "Courier New", Courier, monospace;
-	font-size: 15px;
+	font-size: 17px;
 }
 .page {
 background-color: #525252;
