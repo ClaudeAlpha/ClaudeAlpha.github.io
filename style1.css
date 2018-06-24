@@ -2,13 +2,14 @@ body {
 background-color: #4C4C4C;
 }
 .text {
-color: #14e8cb;
+color: #ffffff;
 font-weight: bold;
 font-size: 17px;
+font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 .text2 {
-	color: #14e8cb;
-	font-family: "Verdana", sans-serif;
+	color: #ffffff;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 .page {
 background-color: #525252;
