@@ -2,7 +2,7 @@ body {
 background-color: #4C4C4C;
 }
 .text {
-color: #ffffff;
+color: #1aedc2;
 font-weight: bold;
 font-size: 17px;
 font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
@@ -20,12 +20,12 @@ height: 100%;
 width: 99%;
 }
 .Links {
-	color: #1398A5;
+	color: #1aedc2;
 	font-weight: bold;
 	text-decoration: none;
 }
 .Lime {
-	color: #1398A5;
+	color: #1aedc2;
 }
 .button {
 	position: static;
