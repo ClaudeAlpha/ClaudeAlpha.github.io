@@ -5,16 +5,16 @@ background-color: #4C4C4C;
 color: #1aedc2;
 font-weight: bold;
 font-size: 19px;
-font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+font-family: "Courier New", Courier, monospace;
 }
 .text2 {
 	color: #ffffff;
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-family: "Courier New", Courier, monospace;
 	font-size: 15px;
 }
 .text3 {
 	color: #525252;
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-family: "Courier New", Courier, monospace;
 	font-size: 15px;
 }
 .page {
@@ -29,11 +29,10 @@ width: 99%;
 	color: #1aedc2;
 	font-weight: bold;
 	text-decoration: none;
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 .Lime {
 	color: #1aedc2;
-	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-family: "Courier New", Courier, monospace;
 }
 .button {
 	position: static;
